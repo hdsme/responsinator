@@ -11,12 +11,12 @@ readme_filename = os.path.join(this_dir, 'README.md')
 requirements_filename = os.path.join(this_dir, 'requirements.txt')
 
 PACKAGE_NAME = 'responsinator'
-PACKAGE_VERSION = '1.0.0'
+PACKAGE_VERSION = '1.0.1'
 PACKAGE_AUTHOR = 'Hao Hoang'
 PACKAGE_AUTHOR_EMAIL = 'haohoangofficial@gmail.com'
-PACKAGE_URL = 'https://github.com/haohoangofficial/responsinator'
+PACKAGE_URL = 'https://github.com/hdsme/responsinator'
 PACKAGE_DOWNLOAD_URL = \
-    'https://github.com/haohoangofficial/responsinator/tarball/' + PACKAGE_VERSION
+    'https://github.com/hdsme/responsinator/tarball/' + PACKAGE_VERSION
 PACKAGES = [
     'responsinator'
 ]
